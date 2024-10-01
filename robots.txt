@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://huzejno.github.io/sitemap/sitemap.txt
